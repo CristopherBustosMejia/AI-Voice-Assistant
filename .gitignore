@@ -9,3 +9,5 @@
 /.vscode/
 __pycache__/
 __.venv/
+data/models/*
+!data/models/.gitkeep
